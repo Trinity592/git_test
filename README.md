@@ -1,0 +1,1 @@
+This Trinity's first Git project!
